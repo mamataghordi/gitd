@@ -1,1 +1,3 @@
-hell mamata from git
+#!/bin/bash
+
+x=1+2
